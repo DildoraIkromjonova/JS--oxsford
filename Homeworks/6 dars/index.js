@@ -8,3 +8,4 @@
 //   console.log("Chipta narxi: 10000 so'm");
 // }
 
+let i =0
